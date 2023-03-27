@@ -103,5 +103,6 @@ project/plugins/project/
 .history
 .cache
 .lib/
+sbt.json
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij+all,sbt
